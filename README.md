@@ -1,6 +1,6 @@
 # coffee_card
 
-A new Flutter project.
+A new ToDo list Flutter project.
 
 ## Getting Started
 
